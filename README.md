@@ -1,3 +1,3 @@
-# [FEA WEB TESTinG](https://flasheverafter.github.io/fea_web_canary/)
+# [FEA WEB TESTING](https://flasheverafter.github.io/fea_web_canary/)
 
-Just Me testing some stuff out.
+See upcoming updates to FEA before being published to the main website!
